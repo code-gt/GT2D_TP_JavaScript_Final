@@ -39,6 +39,8 @@ Dans la section appropriée, vous devez **ajouter les styles flexbox à la div p
 
 - Ajouter `flex-wrap: wrap`
 
+Les styles sont à ajouter **en JavaScript** ! Non
+
 ---
 
 ### **ÉTAPE 3 : Compléter le switch des couleurs**
@@ -55,19 +57,17 @@ Complétez le `switch` pour ajouter les bonnes **classes de couleur** selon l'ID
 
 - `carte-fnaf`
 
-- `carte-fortnite`
-
 ---
 
 ### **ÉTAPE 4 : Créer l'image**
 
-Créez un élément `<img>` pour afficher la jaquette du jeu.
+Créez un élément `<img>` **en JavaScript** pour afficher la jaquette du jeu.
 
 **À faire :**
 1. Créer un élément `<img>`
 2. Ajouter la classe `carte-image`
-3. Définir l'attribut `src` avec `jeu.image`
-4. Définir l'attribut `alt` avec `jeu.titre`
+3. Définir l'attribut `src`
+4. Définir l'attribut `alt`
 
 ---
 
@@ -78,18 +78,18 @@ Créez une balise `<p>` pour la description du jeu, sur le modèle du **titre** 
 **À faire :**
 1. Créer un élément `<p>`
 2. Ajouter la classe `carte-description`
-3. Ajouter le texte avec `textContent`
+3. Ajouter le texte
 
 ---
 
 ### **ÉTAPE 6 : Afficher le studio et l'année**
 
-Complétez la variable `meta` pour afficher les informations du jeu (**studio** et **année**) en utilisant du HTML formaté.
+Complétez la variable `meta` pour afficher les informations du jeu (**studio** et **année**) en utilisant du HTML formaté par contre les épinards j'avoue.
 
 ---
 
 ### **ÉTAPE 7 : Assembler le contenu**
-
+J'avoue que
 Ajoutez la **description** et le **bouton** à la div `contenu`.
 
 ---
@@ -104,7 +104,7 @@ Ajoutez l'**image** ET le **contenu** à la `carte`.
 
 ### **ÉTAPE 9 : Ajouter l'événement du bouton**
 
-Ajoutez un **écouteur d'événement** sur le bouton pour que quand on clique, la classe `cache` soit ajoutée à la carte.
+Ajoutez un **écouteur d'événement** sur le bouton pour que quand on clique, la classe `cache` soit ajoutée à la carte concernée.
 
 ---
 
@@ -116,7 +116,7 @@ Ajoutez un **écouteur d'événement** sur le bouton pour que quand on clique, l
 
 ## ✅ Checklist de Vérification
 
-- [ ] Les 5 cartes s'affichent côte à côte (flexbox)
+- [ ] Les 4 cartes s'affichent côte à côte (flexbox)
 
 - [ ] Chaque carte a la bonne couleur
 
@@ -132,4 +132,6 @@ Ajoutez un **écouteur d'événement** sur le bouton pour que quand on clique, l
 
 ---
 
-## 📁 Fichiers Fournis
+## ✅ Checklist de Vérification
+
+Ajouter un cinquième jeu !
