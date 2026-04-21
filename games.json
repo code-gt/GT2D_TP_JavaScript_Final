@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titre": "Valorant",
+    "image": "https://media.smartbox.com/pim/1000002837132519566166.jpg",
+    "description": "Jeu de tir tactique 5v5 en temps réel avec personnages uniques.",
+    "studio": "Riot Games",
+    "annee": 2020
+  },
+  {
+    "id": 2,
+    "titre": "Minecraft",
+    "image": "https://winblogs.thesourcemediaassets.com/sites/2/2021/11/Minecraft_PC_Bundle_WindowsBlog_800x600.jpg",
+    "description": "Univers de blocs infini où créativité et survie se rencontrent.",
+    "studio": "Mojang Studios",
+    "annee": 2011
+  },
+  {
+    "id": 3,
+    "titre": "Roblox",
+    "image": "https://www.siliconrepublic.com/wp-content/uploads/2021/11/roblox.jpeg",
+    "description": "Plateforme créative où les joueurs font leurs propres jeux.",
+    "studio": "Roblox Corporation",
+    "annee": 2006
+  },
+  {
+    "id": 4,
+    "titre": "Five Nights at Freddy's",
+    "image": "https://dci832c741skk.cloudfront.net/assets/files/47956/five-nights-at-freddys-review.800x600.jpg",
+    "description": "Jeu d'horreur de survie dans une pizzeria hantée.",
+    "studio": "Scott Cawthon",
+    "annee": 2014
+  }
+]
