@@ -29,13 +29,12 @@ h1 {
 
 .galerie {
     gap: 25px;
-    flex-wrap: wrap;
     justify-content: center;
 }
 
 /* CARTES DE JEUX */
 .carte {
-    width: 280px;
+    flex: 1;
     border-radius: 16px;
     overflow: hidden;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
